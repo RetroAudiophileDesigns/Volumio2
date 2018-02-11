@@ -1,6 +1,6 @@
 This is a fork from the Volumio 2 project. Distributed under the GNU General Public license ver. 3. Volumio is also a registered trademark of INTUITU di Michelangelo Guarise. 
 
-The Retro Audiophile Designs distrubtion is based on this fork's source code available here.
+The Retro Audiophile Designs distribution is based on this fork's source code available here. It represents the Volumio 2 version 2.361.
 
 The information below is from the Volumio 2 project:
 
